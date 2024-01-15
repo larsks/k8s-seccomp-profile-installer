@@ -8,4 +8,4 @@ resources:
 - seccomp-profiles-pvc.yaml
 - daemonset.yaml
 - seccomp-profiles
-- rolebinding.yaml
+- rbac
