@@ -4,4 +4,4 @@ kind: Kustomization
 configMapGenerator:
   - name: seccomp-profiles
     files:
-      - example.json=allow-personality.json
+      - example-seccomp-profile.json
